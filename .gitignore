@@ -112,3 +112,6 @@ venv.bak/
 # downloaded model (https://drive.google.com/uc?id=0B7XkCwpI5KDYNlNUTTlSS21pQmM&export=download)
 01_GoogleNews-vectors-negative300.bin
 GoogleNews-vectors-negative300.bin
+
+# model directory
+/model
